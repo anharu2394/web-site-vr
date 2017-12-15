@@ -5,18 +5,18 @@
 
 
   home.addEventListener('click', function () {
-    location.href = "/web-site/";
+    location.href = "/web-site-vr/web-site/";
   });
 
   about.addEventListener('click', function () {
-    location.href = "/web-site/about.html";
+    location.href = "/web-site-vr/web-site/about.html";
   });
 
   service.addEventListener('click', function () {
-    location.href = "/web-site/service.html";
+    location.href = "/web-site-vr/web-site/service.html";
   });
 
   contact.addEventListener('click', function () {
-    location.href = "/web-site/contact.html";
+    location.href = "/web-site-vr/web-site/contact.html";
   });
 
